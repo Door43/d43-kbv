@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kbv:home|Door43 (kbv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kbv|d43-kbv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kbv/archive/master.zip|d43-kbv.zip]]
+
+**Recent Changes**
+{{changes>ns = kbv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kbv|Ethnologue data]]
+
